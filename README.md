@@ -8,6 +8,6 @@ In other words, machine learning algorithms can be trained to generate a meaning
 We have used extractive text summarization methods on two main machine learning algorithms, both using a Recurrent Neural Networks (RNN) - Gated Recurrent Unit (GRU) and Long Short Term Memory (LSTM).
 
 Project partners:
-Swathy Hari Prasad
-Darla Drenckhahn
+Swathy Hari Prasad,
+Darla Drenckhahn,
 Farzaneh Kadkhodaie Elyaderani
